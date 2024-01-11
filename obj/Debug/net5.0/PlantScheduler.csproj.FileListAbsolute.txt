@@ -1,0 +1,16 @@
+/Users/ryanalwine/Documents/CNETHouseplants/bin/Debug/net5.0/PlantScheduler
+/Users/ryanalwine/Documents/CNETHouseplants/bin/Debug/net5.0/PlantScheduler.deps.json
+/Users/ryanalwine/Documents/CNETHouseplants/bin/Debug/net5.0/PlantScheduler.runtimeconfig.json
+/Users/ryanalwine/Documents/CNETHouseplants/bin/Debug/net5.0/PlantScheduler.runtimeconfig.dev.json
+/Users/ryanalwine/Documents/CNETHouseplants/bin/Debug/net5.0/PlantScheduler.dll
+/Users/ryanalwine/Documents/CNETHouseplants/bin/Debug/net5.0/PlantScheduler.pdb
+/Users/ryanalwine/Documents/CNETHouseplants/obj/Debug/net5.0/PlantScheduler.csproj.AssemblyReference.cache
+/Users/ryanalwine/Documents/CNETHouseplants/obj/Debug/net5.0/PlantScheduler.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ryanalwine/Documents/CNETHouseplants/obj/Debug/net5.0/PlantScheduler.AssemblyInfoInputs.cache
+/Users/ryanalwine/Documents/CNETHouseplants/obj/Debug/net5.0/PlantScheduler.AssemblyInfo.cs
+/Users/ryanalwine/Documents/CNETHouseplants/obj/Debug/net5.0/PlantScheduler.csproj.CoreCompileInputs.cache
+/Users/ryanalwine/Documents/CNETHouseplants/obj/Debug/net5.0/PlantScheduler.dll
+/Users/ryanalwine/Documents/CNETHouseplants/obj/Debug/net5.0/refint/PlantScheduler.dll
+/Users/ryanalwine/Documents/CNETHouseplants/obj/Debug/net5.0/PlantScheduler.pdb
+/Users/ryanalwine/Documents/CNETHouseplants/obj/Debug/net5.0/PlantScheduler.genruntimeconfig.cache
+/Users/ryanalwine/Documents/CNETHouseplants/obj/Debug/net5.0/ref/PlantScheduler.dll

@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <!-- Project settings -->
+  <PropertyGroup>
+    <!-- Output type of the project -->
+    <OutputType>Exe</OutputType>
+    <!-- Target framework for the project -->
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <!-- Specify the source files to include in the project -->
+  <ItemGroup>
+    <!-- Exclude all files by default -->
+    <Compile Remove="*" />
+    <!-- Explicitly include the necessary files -->
+    <Compile Include="PlantScheduler.cs" />
+    <Compile Include="Program.cs" />
+  </ItemGroup>
+
+</Project>
