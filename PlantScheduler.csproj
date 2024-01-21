@@ -15,6 +15,7 @@
     <!-- Explicitly include the necessary files -->
     <Compile Include="PlantScheduler.cs" />
     <Compile Include="Program.cs" />
+    <Compile Include="Plant.cs" />
   </ItemGroup>
 
 </Project>
